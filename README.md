@@ -1,0 +1,2 @@
+# ScreenShotApp
+Lightshot mimic 
